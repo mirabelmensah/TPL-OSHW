@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "TPL-OSHW: Open-Source Custom Cryogenic Feedthrough Hardware"
+message: "If you use this hardware or designs in your research, please cite this repository."
+type: software
+
+authors:
+  - family-names: Mensah
+    given-names: Mirabel
+  - family-names: Allo
+    given-names: Prosper
+  - family-names: Tamura
+    given-names: Marcus
+  - family-names: Tait
+    given-names: Alex
+  
+
+repository-url: "https://github.com/mmensah/TPL-OSHW"
+url: "https://github.com/mmensah/TPL-OSHW"
+
+version: "1.0.0"
+date-released: "2025-12-05"
